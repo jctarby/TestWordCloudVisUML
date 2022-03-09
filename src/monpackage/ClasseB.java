@@ -13,6 +13,8 @@ public class ClasseB {
      */
 
     // ajout de texte vide
+
+    // il était une fois un plugin appelé visuml qui faisait des diagrammes UML interactifs connectées en temps réel.
     public String getNom() {
         return nom;
     }

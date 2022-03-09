@@ -3,6 +3,8 @@ package monpackage;
 public class MaToyota {
     private String nom = "Verso";
 
+    private void unemethodevide(){}
+
     /**
      * Dans les années 1980, Toyota collabore avec la dictature militaire au Brésil en lui transmettant des informations sur les activités des militants syndicaux de l'entreprise. Ces informations sont utilisées par la police pour surveiller, harceler et arrêter les syndicalistes afin d'empêcher l'organisation de grèves14.
      *
