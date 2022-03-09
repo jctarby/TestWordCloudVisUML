@@ -11,4 +11,10 @@ public class ClassePourTestBlockCode {
             System.out.println("Erreur d'index");
         }
     }
+
+    public void boucle(){
+        for (int i=0;i<10;i++){
+            System.out.println(i);
+        }
+    }
 }
