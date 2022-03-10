@@ -1,4 +1,4 @@
-package nouveaupackage;
+package pays;
 
 public class Espagne {
 

@@ -1,4 +1,4 @@
-package monpackage;
+package voitures;
 
 public class MaToyota {
     private String nom = "Verso";
